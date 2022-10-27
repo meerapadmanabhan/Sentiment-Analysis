@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment-Analysis on World Mental Health Day tweets 
 The trends of positive, negative, and neutral tweets are captured and presented in this project. 
 In this project we have presented the sentiment of people from the World as a case study. 
 It shows that people's feelings and thoughts about the Mental health situations. 
